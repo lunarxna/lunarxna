@@ -10,7 +10,7 @@
 - ⚡ Fun fact **I love to crochet, do diys and play videogames!**
 
 
-<img width="1360" height="480" alt="image" src="https://github.com/user-attachments/assets/b884017c-9091-482a-9ace-bd253f1dacb3" />
+![descarga (7)](https://github.com/user-attachments/assets/05b03591-1276-4a86-911e-4a2da7fed4a3)
 
 
 <h3 align="left">Connect with me:</h3>
