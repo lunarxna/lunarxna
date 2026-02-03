@@ -1,3 +1,4 @@
+![Header](https://capsule-render.vercel.app/render?type=soft&color=auto&height=120&section=header&text=Tu%20Nombre&fontSize=70&fontColor=ff00ff&animation=fadeIn)
 <h1 align="center">Hi cutie!👋, I'm Rosanna!</h1>
 <h3 align="center">I'm a Computer Science student from DR✨🌴</h3>
 
